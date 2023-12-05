@@ -11,8 +11,7 @@ const LandingIntro = () => {
               <div className="text">
                 <h4 className="">Set up your wallet</h4>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem.
+                  You will need a digital wallet that supports that blockchain to store your NFT.
                 </p>
               </div>
               <i className="wm icon_wallet"></i>
